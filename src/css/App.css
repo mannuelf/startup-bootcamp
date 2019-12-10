@@ -1,0 +1,84 @@
+@import url("normalize.css");
+
+:root {
+  --brand-red: #ff2f02;
+  --gunmetal: #273043;
+  --gray-blue: #9197AE;
+  --honey-dew: #EFF6EE;
+  --deep-carmine-pink: #F02D3A;
+  --white: #FFFFFF;
+}
+
+.App-header {
+  position: relative;
+  background-color: transparent;
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: var(--brand-red);
+  margin-top: 0;
+  z-index: 100;
+}
+
+.logo {
+  margin: 0 auto;
+  width: 390px;
+  height: 100px;
+  background-color: var(--brand-red);
+  background-image: url("../img/noroff-logo.png");
+  background-repeat: no-repe  at;
+  background-size: 190px;
+  background-position: center center;
+}
+
+.sr-only {
+  display: none;
+}
+
+.hero-banner {
+  position: relative;
+  margin-top: -90px;
+  z-index: 1;
+  background-image: url("../img/cover-photo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top left;
+  min-height: 60vh;
+}
+
+.hero-banner h1 {
+  font-family: 'Press Start 2P', cursive;
+  color: var(--white);
+  font-size: calc(10px + 6vmin);
+  padding: 1em;
+  background-color: rgba(0,0,0,0.6);
+  position: absolute;
+  bottom: 0;
+  margin: 0;
+  text-shadow: 1px 1px 10px #000000;
+  z-index: 2;
+  border-bottom: 4px solid var(--brand-red);
+}
+
+.hero-banner::before {
+  display: block;
+  content: " ";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  background-color: rgba(0,0,0,0.3);
+}
+
+.hero-banner .inner-padding {
+  padding: 0;
+}
+
+.inner-padding {
+  padding: 2em;
+}
