@@ -7,6 +7,11 @@
   --honey-dew: #EFF6EE;
   --deep-carmine-pink: #F02D3A;
   --white: #FFFFFF;
+  --off-white: #EEEEEE;
+}
+
+body {
+  background-color: var(--off-white);
 }
 
 .App-header {
@@ -29,7 +34,7 @@
   height: 100px;
   background-color: var(--brand-red);
   background-image: url("../img/noroff-logo.png");
-  background-repeat: no-repe  at;
+  background-repeat: no-repeat;
   background-size: 190px;
   background-position: center center;
 }
@@ -81,4 +86,40 @@
 
 .inner-padding {
   padding: 2em;
+}
+
+.page-title {
+  font-family: 'Press Start 2P', cursive;
+  color: var(--brand-red);
+  padding: 1em;
+  width: available;
+}
+
+.grid {
+  display: flex;
+  flex-direction: column;
+}
+
+.grid-item {
+  flex-grow: 1;
+}
+
+.bg-color-a {
+  background-color: var(--honey-dew);
+}
+
+@media screen and (min-width: 768px) {
+  .grid {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .grid-item {
+    flex-grow: 1;
+  }
+}
+
+.footer {
+  color: var(--white);
+  background-color: var(--brand-red);
 }
