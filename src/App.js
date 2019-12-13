@@ -20,34 +20,22 @@ function App() {
                 <div className="grid">
                     <article className="grid-item bg-color-a">
                         <div className="inner-padding">
-                            <p className="first-para">Call for Frontend, VFX, Games and Digital Marketing students online and on campus. Do you think you might have the next big business idea? Would you like to try and see if it can fly in the real world? Here’s your shot! Team up and pitch your very best idea in front of students and industry at our Noroff Startup bootcamp in January. Campus students are invited to lectures and pitching sessions.</p>
-                            <p>Cooperate with mentors to create something extraordinary over the course of four short and intense weeks.  Challenge yourself and your team to put everything you’ve got, and then some, into your work. Team up across VFX, Frontend and Games programs to up the game and push your limits even further. Learn how to strategically launch and market your work, how to communicate your brand and lift your business idea up from the ground. To finish it all off you will deliver your entire project in a 15 minute Grand Finale presentation. Time to hit the grand jury with your best shot! Are you excited yet?</p>
-                            <p>For more information - join our info meeting at Oslo campus - December 14th @12:15PM</p>
-                            <p>Online students from VFX, Games and Frontend studies are welcome to sign up for the bootcamp and be part of the campus experience for the full course.</p>
+                            <p className="first-para">Call for Frontend, VFX, Games and Digital Marketing students online and on campus.</p>
+                            <p>Do you think you might have the next big business idea? Would you like to try and see if it can fly in the real world? Here’s your shot! Team up and pitch your very best idea in front of students and industry at our Noroff Startup bootcamp in January. Campus students are invited to lectures and pitching sessions.</p>
+                            <p>Cooperate with mentors to create something extraordinary over the course of four short and intense weeks.  Challenge yourself and your team to put everything you’ve got, and then some, into your work. </p>
+                            <p>Team up across VFX, Frontend and Games programs to up the game and push your limits even further. Learn how to strategically launch and market your work, how to communicate your brand and lift your business idea up from the ground. To finish it all off you will deliver your entire project in a 15 minute Grand Finale presentation. Time to hit the grand jury with your best shot! Are you excited yet?</p>
                         </div>
                     </article>
                     <aside className="grid-item bg-color-b">
                         <div className="inner-padding">
-                            <h2>External contributors:</h2>
-                            <ul className="item-list">
-                                <li>Anne Worsøe - Bakken &amp; Bæck</li>
-                                <li>Anniken Fjelberg - 657 Oslo</li>
-                                <li>Ingar Bentsen - The Factory</li>
-                                <li>Christian Wig - Pivotic</li>
-                            </ul>
-                            <hr/>
-                            <a 
-                                href="https://www.eventbrite.com/e/noroff-startup-bootcamp-tickets-52863010688"
-                                className="btn-register"
-                            >
-                                Register
-                            </a>
+                        <p>For more information - join our info meeting at Oslo campus - December 14th @12:15PM</p>
+                            <p>Online students from VFX, Games and Frontend studies are welcome to sign up for the bootcamp and be part of the campus experience for the full course.</p>
                         </div>
                     </aside>
                 </div>
             </section>
 
-            <section className="row">
+            <section className="row bg-color-c">
                 <div className="inner-padding">
                     <h2 className="page-title text-centered ">Location</h2>
                     <iframe 
@@ -68,7 +56,7 @@ function App() {
                 </div>
             </section>
 
-            <footer className="footer text-centered ">
+            <footer className="footer text-centered bg-color-b">
                 <div className="inner-padding">
                     <p>Noroff Fagskole</p>
                 </div>

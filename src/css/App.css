@@ -67,11 +67,13 @@ h5,
 h6 {
   font-family: var(--heading-font-b);
   color: #fff;
+  margin-top: 0;
 }
 
 p {
   color: var(--white);
   font-size: calc(10px + 1vmin);
+  margin-top: 0;
 }
 
 .sr-only {
@@ -157,6 +159,10 @@ hr {
 
 .bg-color-b {
   background-color: transparent;
+}
+
+.bg-color-c {
+  background: rgba(255,255,255,0.2);
 }
 
 .first-para {
