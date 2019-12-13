@@ -87,7 +87,7 @@ p {
   background-image: url("../img/cover-photo-2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top left;
+  background-position: 0em -200px;
   min-height: 80vh;
 }
 
@@ -201,6 +201,4 @@ hr {
 
 .footer {
   color: var(--white);
-  background-color: transparent;
-  border-top: 1px solid white;
 }

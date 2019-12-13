@@ -56,7 +56,7 @@ function App() {
                 </div>
             </section>
 
-            <footer className="footer text-centered bg-color-b">
+            <footer className="footer text-centered bg-color-c">
                 <div className="inner-padding">
                     <p>Noroff Fagskole</p>
                 </div>
