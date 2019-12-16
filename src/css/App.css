@@ -205,6 +205,10 @@ hr {
     flex-grow: 1;
     width: 50%;
   }
+  
+  .inner-padding-small {
+    padding: 2em 2em;
+  }
 }
 
 .footer {

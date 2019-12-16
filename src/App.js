@@ -42,7 +42,7 @@ function App() {
               <p>
                 Team up across VFX, Frontend, Digital Marketing and Games programs to up the game
                 and push your limits even further. Learn how to strategically
-                launch and market your work, how to communicate your brand and
+                launch and market your work, how to commu   nicate your brand and
                 lift your business idea up from the ground. To finish it all off
                 you will deliver your entire project in a 15 minute Grand Finale
                 presentation. Time to hit the grand jury with your best shot!
