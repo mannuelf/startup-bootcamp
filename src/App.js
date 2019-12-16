@@ -35,19 +35,17 @@ function App() {
               </p>
               <p>
                 Cooperate with mentors to create something extraordinary over
-                the course of four short and intense weeks.  Challenge yourself
+                the course of four short and intense weeks. Challenge yourself
                 and your team to put everything you’ve got, and then some, into
                 your work.
               </p>
               <p>
-                Team up across VFX, Frontend, Digital Marketing and Games programs to up the game
-                and push your limits even further. Learn how to strategically
-                launch and market your work, how to commu   nicate your brand and
-                lift your business idea up from the ground. To finish it all off
-                you will deliver your entire project in a 15 minute Grand Finale
-                presentation. Time to hit the grand jury with your best shot!
-                Are you excited yet?
+                Team up across VFX, Frontend, Digital Marketing and Games programs to up the game and push your limits even further. 
+                Learn how to strategically launch and market your work, how to communicate your brand and lift your business idea up from the ground. 
+                To finish it all off you will deliver your entire project in a 15 minute Grand Finale presentation. 
+                Time to hit the grand jury with your best shot!
               </p>
+              <h3>Are you excited yet?</h3>
             </div>
           </article>
           <aside className="grid-item bg-color-b">
