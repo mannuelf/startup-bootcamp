@@ -57,11 +57,6 @@ function App() {
               <p>
                 <strong>End date:</strong> 24<sup>th</sup> January 2019.
               </p>
-              <p>
-                Students from VFX, Games, Frontend studies and Digital Marketing
-                are welcome to sign up for the bootcamp and be part of the
-                campus experience for the full course.
-              </p>
             </div>
           </aside>
         </div>
