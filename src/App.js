@@ -53,7 +53,8 @@ function App() {
             <div className="inner-padding">
               <h2>When?</h2>
               <p>
-                  <strong>Date:</strong> 2 January 2019 - 24th January 2019.
+                  <strong>Start date:</strong> 2 January 2019.
+                  <strong>End date:</strong> 24th January 2019.
               </p>
               <p>
                 Students from VFX, Games, Frontend studies and Digital Marketing are welcome
