@@ -40,7 +40,7 @@ function App() {
                 your work.
               </p>
               <p>
-                Team up across VFX, Frontend and Games programs to up the game
+                Team up across VFX, Frontend, Digital Marketing and Games programs to up the game
                 and push your limits even further. Learn how to strategically
                 launch and market your work, how to communicate your brand and
                 lift your business idea up from the ground. To finish it all off
