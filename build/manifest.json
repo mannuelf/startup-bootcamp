@@ -1,6 +1,6 @@
 {
-  "short_name": "Startup Bootcamp",
-  "name": "Startup Bootcamp",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",

@@ -87,7 +87,7 @@ p {
   background-image: url("../img/cover-photo-2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 0em -200px;
+  background-position: 0 0;
   min-height: 80vh;
 }
 
@@ -188,6 +188,10 @@ hr {
 }
 
 @media screen and (min-width: 768px) {
+  .hero-banner {
+    background-position: 0em -200px;
+  }
+
   .grid {
     display: flex;
     flex-direction: row;
