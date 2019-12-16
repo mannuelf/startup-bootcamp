@@ -23,7 +23,8 @@ function App() {
           <article className="grid-item bg-color-a">
             <div className="inner-padding">
               <p className="first-para">
-                Call for Frontend, VFX, Games and Digital Marketing students on campus.
+                Call for Frontend, VFX, Games and Digital Marketing students on
+                campus.
               </p>
               <p>
                 Do you think you might have the next big business idea? Would
@@ -53,13 +54,15 @@ function App() {
             <div className="inner-padding">
               <h2>When?</h2>
               <p>
-                  <strong>Start date:</strong> 2 January 2019. <br>
-                  <strong>End date:</strong> 24th January 2019.
+                <strong>Start date:</strong> 2<sup>nd</sup> January 2019.
               </p>
               <p>
-                Students from VFX, Games, Frontend studies and Digital Marketing are welcome
-                to sign up for the bootcamp and be part of the campus experience
-                for the full course.
+                <strong>End date:</strong> 24<sup>th</sup> January 2019.
+              </p>
+              <p>
+                Students from VFX, Games, Frontend studies and Digital Marketing
+                are welcome to sign up for the bootcamp and be part of the
+                campus experience for the full course.
               </p>
             </div>
           </aside>
