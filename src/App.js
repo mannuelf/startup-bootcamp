@@ -74,7 +74,7 @@ function App() {
           <h2 className="page-title text-centered">Campuses</h2>
           <div className="grid">
             <article className="grid-item bg-color-a">
-              <div className="inner-padding">
+              <div className="inner-padding inner-padding-small">
                 <h2>Oslo</h2>
                 <iframe
                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d999.5669112842014!2d10.754864357200955!3d59.92992156976396!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416e625bebdd55%3A0x87598940160b87fa!2sNoroff%20Oslo!5e0!3m2!1sen!2sno!4v1576069085604!5m2!1sen!2sno"
@@ -87,11 +87,11 @@ function App() {
             </article>
 
             <aside className="grid-item bg-color-b">
-              <div className="inner-padding">
+              <div className="inner-padding inner-padding-small">
                 <h2>Bergen</h2>
                 <iframe
                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1973.1205441119898!2d5.34566401597337!3d60.360647534946956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x463cfc01b28180bd%3A0x74b5075aad390869!2sNoroff%20Bergen!5e0!3m2!1sen!2sno!4v1576487450995!5m2!1sen!2sno"
-                  width="600"
+                  width="100%"
                   height="450"
                   frameborder="0"
                   allowfullscreen=""

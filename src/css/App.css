@@ -124,6 +124,10 @@ p {
   padding: 2em;
 }
 
+.inner-padding-small {
+  padding: 2em 0;
+}
+
 .page-title {
   font-family: var(--heading-font-b);
   color: #fff;
