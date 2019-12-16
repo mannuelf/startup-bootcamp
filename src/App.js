@@ -53,7 +53,7 @@ function App() {
             <div className="inner-padding">
               <h2>When?</h2>
               <p>
-                  <strong>Start date:</strong> 2 January 2019.
+                  <strong>Start date:</strong> 2 January 2019. <br>
                   <strong>End date:</strong> 24th January 2019.
               </p>
               <p>
